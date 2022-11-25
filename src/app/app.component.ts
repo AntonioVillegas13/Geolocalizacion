@@ -14,7 +14,7 @@ export class AppComponent {
   constructor() {
 
     CapacitorGoogleMaps.initialize({
-      key: environment.mapkey
+      key: environment.mapskey
 
 
     })
